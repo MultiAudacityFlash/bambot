@@ -19,9 +19,6 @@ bot.on('message', msg=>{
     if(msg.content.includes("BAA")){
         msg.channel.sendMessage(`AAAGGGHHH MY FUCKING COCK`);
     }
-    if(msg.content.includes("BAAA")){
-        msg.channel.sendMessage(`AAAGGGHHH MY FUCKING COCK`);
-    }
     if(msg.content.includes("RACIST")){
         msg.channel.sendMessage(`I'VE HAD IT, I'VE FUCKING HAD IT`);
     }
@@ -34,7 +31,7 @@ bot.on('message', msg=>{
     if(msg.content.includes("baa")){
         msg.channel.sendMessage(`AAAGGGHHH MY FUCKING COCK`);
     }
-    if(msg.content.includes("baaa")){
+    if(msg.content.includes("Baa")){
         msg.channel.sendMessage(`AAAGGGHHH MY FUCKING COCK`);
     }
     if(msg.content.includes("racist")){
@@ -234,6 +231,21 @@ bot.on('message', msg=>{
     }
     if(msg.content.includes("Antiukrane")){
         msg.channel.sendMessage(`I'LL COME TO HIS SCHOOL AND SHOOT IT UP AND SHOOT HIM AND SHOOT MYSELF`);
+    }
+    if(msg.content.includes("had a farm")){
+        msg.channel.sendMessage(`YOU MOTHERFUCKER, YOU. MOTHER. FUCKER. GET OUT.`);
+    }
+    if(msg.content.includes("HAD A FARM")){
+        msg.channel.sendMessage(`YOU MOTHERFUCKER, YOU. MOTHER. FUCKER. GET OUT.`);
+    }
+    if(msg.content.includes("ceo of racism has been found")){
+        msg.channel.sendMessage(`FUCK, IT'S NOT SAFE, I NEED TO ROLL`);
+    }
+    if(msg.content.includes("CEO of racism has been found")){
+        msg.channel.sendMessage(`FUCK, IT'S NOT SAFE, I NEED TO ROLL`);
+    }
+    if(msg.content.includes("CEO OF RACISM HAS BEEN FOUND")){
+        msg.channel.sendMessage(`FUCK, IT'S NOT SAFE, I NEED TO ROLL`);
     }
 })
 
