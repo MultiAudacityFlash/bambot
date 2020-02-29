@@ -437,22 +437,22 @@ bot.on('message', msg=>{
         msg.reply(`>is in latest version`);
     }
     if(msg.content.includes("HEROBRINE ISN'T REAL")){
-        msg.reply(`but i'm telling ya, he's real!`);
+        message.channel.send(`${msg.author} but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("HEROBRINE ISNT REAL")){
-        msg.reply(`but i'm telling ya, he's real!`);
+        message.channel.send(`${msg.author} but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("Herobrine isnt real")){
-        msg.reply(`but i'm telling ya, he's real!`);
+        message.channel.send(`${msg.author} but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("Herobrine isn't real")){
-        msg.reply(`but i'm telling ya, he's real!`);
+        message.channel.send(`${msg.author} but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("herobrine isnt real")){
-        msg.reply(`but i'm telling ya, he's real!`);
+        message.channel.send(`${msg.author} but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("herobrine isn't real")){
-        msg.reply(`but i'm telling ya, he's real!`);
+        message.channel.send(`${msg.author} but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("shut the fuck up Alberto")){
         message.channel.send(`${msg.author} no u asshole`);
