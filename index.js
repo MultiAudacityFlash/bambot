@@ -541,6 +541,12 @@ bot.on('message', msg=>{
     if(msg.content.includes("GOD DAMN PSYCHAPATH")){
         msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
     }
+    if(msg.content.includes("ewe")){
+        msg.channel.sendMessage(`OH SWEET WILMA I'M COOOOOMING`);
+    }
+    if(msg.content.includes("EWE")){
+        msg.channel.sendMessage(`OH SWEET WILMA I'M COOOOOMING`);
+    }
 })
 
 bot.login(token);
