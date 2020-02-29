@@ -313,6 +313,18 @@ bot.on('message', msg=>{
     if(msg.content.includes("WHERES MY MONEY ALBERTO")){
         msg.channel.sendMessage(`FUCK YOU, IT'S MY $25 CANADIAN`);
     }
+    if(msg.content.includes("Asher")){
+        msg.channel.sendMessage(`AAAAAAASSSSSSSSHHHHHHOOOLLLLLLEEEE`);
+    }
+    if(msg.content.includes("ASHER")){
+        msg.channel.sendMessage(`AAAAAAASSSSSSSSHHHHHHOOOLLLLLLEEEE`);
+    }
+    if(msg.content.includes("asher")){
+        msg.channel.sendMessage(`AAAAAAASSSSSSSSHHHHHHOOOLLLLLLEEEE`);
+    }
+    if(msg.content.includes("FELIX")){
+        msg.channel.sendMessage(`AAAAAAASSSSSSSSHHHHHHOOOLLLLLLEEEE`);
+    }
 })
 
 bot.login(token);
