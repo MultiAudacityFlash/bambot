@@ -505,6 +505,42 @@ bot.on('message', msg=>{
     if(msg.content.includes("CHRISTMAS HAM BOY")){
         msg.reply(`FUCK YOU ASSHOLE`);
     }
+    if(msg.content.includes("goddamn psychopath")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
+    if(msg.content.includes("Goddamn psychopath")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
+    if(msg.content.includes("god damn psychopath")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
+    if(msg.content.includes("God damn psychopath")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
+    if(msg.content.includes("goddamn psychapath")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
+    if(msg.content.includes("Goddamn psychapath")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
+    if(msg.content.includes("god damn psychapath")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
+    if(msg.content.includes("God damn psychapath")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
+    if(msg.content.includes("GODDAMN PSYCHOPATH")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
+    if(msg.content.includes("GOD DAMN PSYCHOPATH")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
+    if(msg.content.includes("GODDAMN PSYCHAPATH")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
+    if(msg.content.includes("GOD DAMN PSYCHAPATH")){
+        msg.channel.sendMessage(`I WILL FUCKING CURBSTOMP GUSTAVO`);
+    }
 })
 
 bot.login(token);
