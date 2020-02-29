@@ -437,52 +437,52 @@ bot.on('message', msg=>{
         msg.reply(`>is in latest version`);
     }
     if(msg.content.includes("HEROBRINE ISN'T REAL")){
-        message.channel.send(`{msg.author} but i'm telling ya, he's real!`);
+        msg.reply(`but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("HEROBRINE ISNT REAL")){
-        message.channel.send(`{msg.author} but i'm telling ya, he's real!`);
+        msg.reply(`but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("Herobrine isnt real")){
-        message.channel.send(`{msg.author} but i'm telling ya, he's real!`);
+        msg.reply(`but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("Herobrine isn't real")){
-        message.channel.send(`{msg.author} but i'm telling ya, he's real!`);
+        msg.reply(`but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("herobrine isnt real")){
-        message.channel.send(`{msg.author} but i'm telling ya, he's real!`);
+        msg.reply(`but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("herobrine isn't real")){
-        message.channel.send(`{msg.author} but i'm telling ya, he's real!`);
+        msg.reply(`but i'm telling ya, he's real!`);
     }
     if(msg.content.includes("shut the fuck up Alberto")){
-        message.channel.send(`{msg.author} no u asshole`);
+        msg.reply(`no u asshole`);
     }
     if(msg.content.includes("Shut the fuck up Alberto")){
-        message.channel.send(`{msg.author} no u asshole`);
+        msg.reply(`no u asshole`);
     }
     if(msg.content.includes("shut the fuck up, Alberto")){
-        message.channel.send(`{msg.author} no u asshole`);
+        msg.reply(`no u asshole`);
     }
     if(msg.content.includes("Shut the fuck up, Alberto")){
-        message.channel.send(`{msg.author} no u asshole`);
+        msg.reply(`no u asshole`);
     }
     if(msg.content.includes("shut the fuck up alberto")){
-        message.channel.send(`{msg.author} no u asshole`);
+        msg.reply(`no u asshole`);
     }
     if(msg.content.includes("Shut the fuck up alberto")){
-        message.channel.send(`{msg.author} no u asshole`);
+        msg.reply(`no u asshole`);
     }
     if(msg.content.includes("shut the fuck up, alberto")){
-        message.channel.send(`{msg.author} no u asshole`);
+        msg.reply(`no u asshole`);
     }
     if(msg.content.includes("Shut the fuck up, alberto")){
-        message.channel.send(`{msg.author} no u asshole`);
+        msg.reply(`no u asshole`);
     }
     if(msg.content.includes("SHUT THE FUCK UP ALBERTO")){
-        message.channel.send(`{msg.author} NO U ASSHOLE`);
+        msg.reply(`NO U ASSHOLE`);
     }
     if(msg.content.includes("SHUT THE FUCK UP, ALBERTO")){
-        message.channel.send(`{msg.author} NO U ASSHOLE`);
+        msg.reply(`NO U ASSHOLE`);
     }
 })
 
