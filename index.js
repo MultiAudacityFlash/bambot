@@ -484,6 +484,27 @@ bot.on('message', msg=>{
     if(msg.content.includes("SHUT THE FUCK UP, ALBERTO")){
         msg.reply(`NO U ASSHOLE`);
     }
+    if(msg.content.includes("Alberto smells like ham")){
+        msg.reply(`you smell like fucking chicken, you asshole`);
+    }
+    if(msg.content.includes("alberto smells like ham")){
+        msg.reply(`you smell like fucking chicken, you asshole`);
+    }
+    if(msg.content.includes("ALBERTO SMELLS LIKE HAM")){
+        msg.reply(`YOU SMELL LIKE FUCKING CHICKEN, YOU ASSHOLE`);
+    }
+    if(msg.content.includes("Christmas Ham Boy")){
+        msg.reply(`FUCK YOU ASSHOLE`);
+    }
+    if(msg.content.includes("Christmas ham boy")){
+        msg.reply(`FUCK YOU ASSHOLE`);
+    }
+    if(msg.content.includes("christmas ham boy")){
+        msg.reply(`FUCK YOU ASSHOLE`);
+    }
+    if(msg.content.includes("CHRISTMAS HAM BOY")){
+        msg.reply(`FUCK YOU ASSHOLE`);
+    }
 })
 
 bot.login(token);
