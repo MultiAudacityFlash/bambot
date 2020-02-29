@@ -601,6 +601,12 @@ bot.on('message', msg=>{
     if(msg.content.includes("Shepperd")){
         msg.channel.sendMessage(`did a helpless little sheep bleat for his shepperd? ;))`);
     }
+    if(msg.content.includes("Henry")){
+        msg.channel.sendMessage(`IF HENRY COMES TO TORONTO I WILL FUCKING SHOOT HIM AND THEN SHOOT MYSELF`);
+    }
+    if(msg.content.includes("henry")){
+        msg.channel.sendMessage(`IF HENRY COMES TO TORONTO I WILL FUCKING SHOOT HIM AND THEN SHOOT MYSELF`);
+    }
 })
 
 bot.login(token);
