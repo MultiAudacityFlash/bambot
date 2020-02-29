@@ -169,10 +169,13 @@ bot.on('message', msg=>{
     if(msg.content.includes("SOCIETY")){
         msg.channel.sendMessage(`you get what you FUCKING DESERVE, ASSHOLE`);
     }
-    if(msg.content.includes("piss")){
+    if(msg.content.includes("piss fetish")){
         msg.channel.sendMessage(`ONLY ON __SOME__ OCCASIONS`);
     }
-    if(msg.content.includes("PISS")){
+    if(msg.content.includes("PISS fetish")){
+        msg.channel.sendMessage(`ONLY ON __SOME__ OCCASIONS`);
+    }
+    if(msg.content.includes("Piss fetish")){
         msg.channel.sendMessage(`ONLY ON __SOME__ OCCASIONS`);
     }
     if(msg.content.includes("dark skinned girls")){
