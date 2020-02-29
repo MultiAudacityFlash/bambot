@@ -85,6 +85,9 @@ bot.on('message', msg=>{
     if(msg.content.includes("SHEEP")){
         msg.channel.sendMessage(`AAAGGGHHH MY FUCKING COCK`);
     }
+    if(msg.content.includes("Sheep")){
+        msg.channel.sendMessage(`AAAGGGHHH MY FUCKING COCK`);
+    }
     if(msg.content.includes("HAVE FUCKING AUTISM")){
         msg.channel.sendMessage(`SO YOU GUYS ARE DEALING WITH SOMEBODY, WITH A *FUCKING DISABILITY* RIGHT HERE.`);
     }
@@ -545,6 +548,9 @@ bot.on('message', msg=>{
         msg.channel.sendMessage(`OH SWEET WILMA I'M COOOOOMING`);
     }
     if(msg.content.includes("EWE")){
+        msg.channel.sendMessage(`OH SWEET WILMA I'M COOOOOMING`);
+    }
+    if(msg.content.includes("Ewe")){
         msg.channel.sendMessage(`OH SWEET WILMA I'M COOOOOMING`);
     }
 })
