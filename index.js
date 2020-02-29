@@ -595,6 +595,12 @@ bot.on('message', msg=>{
     if(msg.content.includes("SHEPPERD")){
         msg.channel.sendMessage(`did a helpless little sheep bleat for his shepperd? ;))`);
     }
+    if(msg.content.includes("Shepherd")){
+        msg.channel.sendMessage(`did a helpless little sheep bleat for his shepperd? ;))`);
+    }
+    if(msg.content.includes("Shepperd")){
+        msg.channel.sendMessage(`did a helpless little sheep bleat for his shepperd? ;))`);
+    }
 })
 
 bot.login(token);
