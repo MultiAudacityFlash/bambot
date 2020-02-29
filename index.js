@@ -28,6 +28,9 @@ bot.on('message', msg=>{
     if(msg.content.includes("bam")){
         msg.channel.sendMessage(`HERE'S MY DICK`);
     }
+    if(msg.content.includes("Bam")){
+        msg.channel.sendMessage(`HERE'S MY DICK`);
+    }
     if(msg.content.includes("baa")){
         msg.channel.sendMessage(`AAAGGGHHH MY FUCKING COCK`);
     }
@@ -38,6 +41,12 @@ bot.on('message', msg=>{
         msg.channel.sendMessage(`I'VE HAD IT, I'VE FUCKING HAD IT`);
     }
     if(msg.content.includes("had it")){
+        msg.channel.sendMessage(`I'M NOT RACIST`);
+    }
+    if(msg.content.includes("Racist")){
+        msg.channel.sendMessage(`I'VE HAD IT, I'VE FUCKING HAD IT`);
+    }
+    if(msg.content.includes("Had it")){
         msg.channel.sendMessage(`I'M NOT RACIST`);
     }
     if(msg.content.includes("fuck you whore")){
@@ -62,6 +71,12 @@ bot.on('message', msg=>{
         msg.channel.sendMessage(`YOU'RE TURNING ME INTO A GODDAMN INFAMOUS MEME PAGE.`);
     }
     if(msg.content.includes("anthony, you fucking bitch")){
+        msg.channel.sendMessage(`YOU'RE TURNING ME INTO A GODDAMN INFAMOUS MEME PAGE.`);
+    }
+    if(msg.content.includes("Anthony, you fucking bitch")){
+        msg.channel.sendMessage(`YOU'RE TURNING ME INTO A GODDAMN INFAMOUS MEME PAGE.`);
+    }
+    if(msg.content.includes("Anthony you fucking bitch")){
         msg.channel.sendMessage(`YOU'RE TURNING ME INTO A GODDAMN INFAMOUS MEME PAGE.`);
     }
     if(msg.content.includes("sheep")){
@@ -97,6 +112,12 @@ bot.on('message', msg=>{
     if(msg.content.includes("niggers")){
         msg.channel.sendMessage(`bruh`);
     }
+    if(msg.content.includes("Nigger")){
+        msg.channel.sendMessage(`bruh`);
+    }
+    if(msg.content.includes("Niggers")){
+        msg.channel.sendMessage(`bruh`);
+    }
     if(msg.content.includes("NIGGER")){
         msg.channel.sendMessage(`bruh`);
     }
@@ -116,6 +137,9 @@ bot.on('message', msg=>{
         msg.channel.sendMessage(`;))`);
     }
     if(msg.content.includes("bruh")){
+        msg.channel.sendMessage(`bruh`);
+    }
+    if(msg.content.includes("Bruh")){
         msg.channel.sendMessage(`bruh`);
     }
     if(msg.content.includes("BRUH")){
