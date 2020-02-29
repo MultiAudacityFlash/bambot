@@ -553,6 +553,24 @@ bot.on('message', msg=>{
     if(msg.content.includes("Ewe")){
         msg.channel.sendMessage(`OH SWEET WILMA I'M COOOOOMING`);
     }
+    if(msg.content.includes("hate the Beatles")){
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+    }
+    if(msg.content.includes("hate the beatles")){
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+    }
+    if(msg.content.includes("hates the Beatles")){
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+    }
+    if(msg.content.includes("hates the beatles")){
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+    }
+    if(msg.content.includes("HATE THE BEATLES")){
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+    }
+    if(msg.content.includes("HATES THE BEATLES")){
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+    }
 })
 
 bot.login(token);
