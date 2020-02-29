@@ -454,6 +454,36 @@ bot.on('message', msg=>{
     if(msg.content.includes("herobrine isn't real")){
         msg.reply(`but i'm telling ya, he's real!`);
     }
+    if(msg.content.includes("shut the fuck up Alberto")){
+        message.channel.send(`${msg.author} no u asshole`);
+    }
+    if(msg.content.includes("Shut the fuck up Alberto")){
+        message.channel.send(`${msg.author} no u asshole`);
+    }
+    if(msg.content.includes("shut the fuck up, Alberto")){
+        message.channel.send(`${msg.author} no u asshole`);
+    }
+    if(msg.content.includes("Shut the fuck up, Alberto")){
+        message.channel.send(`${msg.author} no u asshole`);
+    }
+    if(msg.content.includes("shut the fuck up alberto")){
+        message.channel.send(`${msg.author} no u asshole`);
+    }
+    if(msg.content.includes("Shut the fuck up alberto")){
+        message.channel.send(`${msg.author} no u asshole`);
+    }
+    if(msg.content.includes("shut the fuck up, alberto")){
+        message.channel.send(`${msg.author} no u asshole`);
+    }
+    if(msg.content.includes("Shut the fuck up, alberto")){
+        message.channel.send(`${msg.author} no u asshole`);
+    }
+    if(msg.content.includes("SHUT THE FUCK UP ALBERTO")){
+        message.channel.send(`${msg.author} NO U ASSHOLE`);
+    }
+    if(msg.content.includes("SHUT THE FUCK UP, ALBERTO")){
+        message.channel.send(`${msg.author} NO U ASSHOLE`);
+    }
 })
 
 bot.login(token);
