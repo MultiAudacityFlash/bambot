@@ -301,6 +301,18 @@ bot.on('message', msg=>{
     if(msg.content.includes("CEO OF RACISM HAS BEEN FOUND")){
         msg.channel.sendMessage(`FUCK, IT'S NOT SAFE, I NEED TO ROLL`);
     }
+    if(msg.content.includes("WHERE'S MY MONEY ALBERTO")){
+        msg.channel.sendMessage(`FUCK YOU, IT'S MY $25 CANADIAN`);
+    }
+    if(msg.content.includes("WHERE'S MY MONEY, ALBERTO")){
+        msg.channel.sendMessage(`FUCK YOU, IT'S MY $25 CANADIAN`);
+    }
+    if(msg.content.includes("WHERES, MY MONEY ALBERTO")){
+        msg.channel.sendMessage(`FUCK YOU, IT'S MY $25 CANADIAN`);
+    }
+    if(msg.content.includes("WHERES MY MONEY ALBERTO")){
+        msg.channel.sendMessage(`FUCK YOU, IT'S MY $25 CANADIAN`);
+    }
 })
 
 bot.login(token);
