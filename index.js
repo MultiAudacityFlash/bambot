@@ -7,6 +7,7 @@ const blacklist =
 
 bot.on('ready', () =>{
     console.log('This bot is online!');
+    bot.user.setGame('Billy Hatcher and the Giant Egg')
 })
 
 bot.on('message', msg=>{
