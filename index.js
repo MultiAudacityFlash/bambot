@@ -325,6 +325,24 @@ bot.on('message', msg=>{
     if(msg.content.includes("FELIX")){
         msg.channel.sendMessage(`AAAAAAASSSSSSSSHHHHHHOOOLLLLLLEEEE`);
     }
+    if(msg.content.includes("record horny moment")){
+        msg.channel.sendMessage(`RECORD HORNY MOMENT: FIVE FUCKING HOURS (11:00 AM EST - 4:38 PM EST)`);
+    }
+    if(msg.content.includes("RECORD HORNY MOMENT")){
+        msg.channel.sendMessage(`RECORD HORNY MOMENT: FIVE FUCKING HOURS (11:00 AM EST - 4:38 PM EST)`);
+    }
+    if(msg.content.includes("what's your opinion on bleating")){
+        msg.channel.sendMessage(`honest to fuck some animals noises like bleating should be a kink everyone should have, even if they're not furries. my motto for sheep girls/ewes if "if she ain't bleating, i'm leaving" cause honestly i just wanna see and hear em bleat instead of em being silent. honestly can't wait until i'm 18 cause i have someone to be a sheep girl for me, but i'm still a horny 17 year old so now i have to wait a fucking year until i'm 18, which is fine cause it gives her a lot of time to buy herself a wooly sweater, sheep horns, and black leggings that go up to her thighs. if i ever fuck a girl, or even have some girl send nudes to be (and she sends a video of her masturbating), i want her to bleat like a sheep for me, either plain naked or just wearing a sheep costume and i call her my ewe and she call me her shepperd. my dick would be so fucking hard that i'd be cumming to the mere thought of that for months, it just makes me so fucking horny.`);
+    }
+    if(msg.content.includes("whats your opinion on bleating")){
+        msg.channel.sendMessage(`honest to fuck some animals noises like bleating should be a kink everyone should have, even if they're not furries. my motto for sheep girls/ewes if "if she ain't bleating, i'm leaving" cause honestly i just wanna see and hear em bleat instead of em being silent. honestly can't wait until i'm 18 cause i have someone to be a sheep girl for me, but i'm still a horny 17 year old so now i have to wait a fucking year until i'm 18, which is fine cause it gives her a lot of time to buy herself a wooly sweater, sheep horns, and black leggings that go up to her thighs. if i ever fuck a girl, or even have some girl send nudes to be (and she sends a video of her masturbating), i want her to bleat like a sheep for me, either plain naked or just wearing a sheep costume and i call her my ewe and she call me her shepperd. my dick would be so fucking hard that i'd be cumming to the mere thought of that for months, it just makes me so fucking horny.`);
+    }
+    if(msg.content.includes("WHATS YOUR OPINION ON BLEATING")){
+        msg.channel.sendMessage(`honest to fuck some animals noises like bleating should be a kink everyone should have, even if they're not furries. my motto for sheep girls/ewes if "if she ain't bleating, i'm leaving" cause honestly i just wanna see and hear em bleat instead of em being silent. honestly can't wait until i'm 18 cause i have someone to be a sheep girl for me, but i'm still a horny 17 year old so now i have to wait a fucking year until i'm 18, which is fine cause it gives her a lot of time to buy herself a wooly sweater, sheep horns, and black leggings that go up to her thighs. if i ever fuck a girl, or even have some girl send nudes to be (and she sends a video of her masturbating), i want her to bleat like a sheep for me, either plain naked or just wearing a sheep costume and i call her my ewe and she call me her shepperd. my dick would be so fucking hard that i'd be cumming to the mere thought of that for months, it just makes me so fucking horny.`);
+    }
+    if(msg.content.includes("WHAT'S YOUR OPINION ON BLEATING")){
+        msg.channel.sendMessage(`honest to fuck some animals noises like bleating should be a kink everyone should have, even if they're not furries. my motto for sheep girls/ewes if "if she ain't bleating, i'm leaving" cause honestly i just wanna see and hear em bleat instead of em being silent. honestly can't wait until i'm 18 cause i have someone to be a sheep girl for me, but i'm still a horny 17 year old so now i have to wait a fucking year until i'm 18, which is fine cause it gives her a lot of time to buy herself a wooly sweater, sheep horns, and black leggings that go up to her thighs. if i ever fuck a girl, or even have some girl send nudes to be (and she sends a video of her masturbating), i want her to bleat like a sheep for me, either plain naked or just wearing a sheep costume and i call her my ewe and she call me her shepperd. my dick would be so fucking hard that i'd be cumming to the mere thought of that for months, it just makes me so fucking horny.`);
+    }
 })
 
 bot.login(token);
