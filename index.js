@@ -433,6 +433,27 @@ bot.on('message', msg=>{
     if(msg.content.includes("IS HEROBRINE REAL")){
         msg.channel.sendMessage(`BOY DO I HAVE A FUCKIN' STORY TO TELL YOU. few days ago, me and a few friends were playing on alpha, we noticed the player 'entity_49' (herobrine) has joined. we started freaking out because we didn't know what to do, he just kept doing nothing, while we did something, he kept saying 'hjalp mig snalla' (help me please) in swedish. he talks in swedish (because the game was made in sweden) and he doesn't understand us, so we tried our best to translate what he said using google translate. he told us earlier (around 8:00 or something) that he's not the bad guy the internet sees him as, he's just apart of the game's code that wants to be deleted. he wants to be removed from existance and wants to be free from the hell that he's currently in, microsoft isn't doing a thing about this, they claim that hs's gone, but in reality, he's still here, and on this server. making a server in 1.2.6 is enough to spawn him in, he wants to tell you that he's here, and this shit's all real`);
     }
+    if(msg.content.includes("-Herobrine removed")){
+        msg.reply(`>is in latest version`);
+    }
+    if(msg.content.includes("HEROBRINE ISN'T REAL")){
+        msg.reply(`but i'm telling ya, he's real!`);
+    }
+    if(msg.content.includes("HEROBRINE ISNT REAL")){
+        msg.reply(`but i'm telling ya, he's real!`);
+    }
+    if(msg.content.includes("Herobrine isnt real")){
+        msg.reply(`but i'm telling ya, he's real!`);
+    }
+    if(msg.content.includes("Herobrine isn't real")){
+        msg.reply(`but i'm telling ya, he's real!`);
+    }
+    if(msg.content.includes("herobrine isnt real")){
+        msg.reply(`but i'm telling ya, he's real!`);
+    }
+    if(msg.content.includes("herobrine isn't real")){
+        msg.reply(`but i'm telling ya, he's real!`);
+    }
 })
 
 bot.login(token);
