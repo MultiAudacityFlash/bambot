@@ -172,11 +172,32 @@ bot.on('message', msg=>{
     if(msg.content.includes("piss fetish")){
         msg.channel.sendMessage(`ONLY ON __SOME__ OCCASIONS`);
     }
-    if(msg.content.includes("PISS fetish")){
+    if(msg.content.includes("PISS FETISH")){
         msg.channel.sendMessage(`ONLY ON __SOME__ OCCASIONS`);
     }
     if(msg.content.includes("Piss fetish")){
         msg.channel.sendMessage(`ONLY ON __SOME__ OCCASIONS`);
+    }
+    if(msg.content.includes("FART FETISH")){
+        msg.channel.sendMessage(`FILL MY NOSTRILS WITH YOUR SWEET-SMELLING GAS, M'LADY`);
+    }
+    if(msg.content.includes("Fart fetish")){
+        msg.channel.sendMessage(`FILL MY NOSTRILS WITH YOUR SWEET-SMELLING GAS, M'LADY`);
+    }
+    if(msg.content.includes("fart fetish")){
+        msg.channel.sendMessage(`FILL MY NOSTRILS WITH YOUR SWEET-SMELLING GAS, M'LADY`);
+    }
+    if(msg.content.includes("kink list")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658482693377622036/683377153773142082/IMG_4002.JPG`);
+    }
+    if(msg.content.includes("Kink list")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658482693377622036/683377153773142082/IMG_4002.JPG`);
+    }
+    if(msg.content.includes("fetish list")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658482693377622036/683377153773142082/IMG_4002.JPG`);
+    }
+    if(msg.content.includes("Fetish list")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658482693377622036/683377153773142082/IMG_4002.JPG`);
     }
     if(msg.content.includes("dark skinned girls")){
         msg.channel.sendMessage(`AAAGGGHHH MY FUCKING COCK`);
