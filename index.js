@@ -199,6 +199,12 @@ bot.on('message', msg=>{
     if(msg.content.includes("Fetish list")){
         msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658482693377622036/683377153773142082/IMG_4002.JPG`);
     }
+    if(msg.content.includes("KINK LIST")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658482693377622036/683377153773142082/IMG_4002.JPG`);
+    }
+    if(msg.content.includes("FETISH LIST")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658482693377622036/683377153773142082/IMG_4002.JPG`);
+    }
     if(msg.content.includes("dark skinned girls")){
         msg.channel.sendMessage(`AAAGGGHHH MY FUCKING COCK`);
     }
