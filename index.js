@@ -571,6 +571,30 @@ bot.on('message', msg=>{
     if(msg.content.includes("HATES THE BEATLES")){
         msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
     }
+    if(msg.content.includes("hate rock")){
+        msg.channel.sendMessage(`YOU'RE AN ASSHOLE FOR NOT LIKING ROCK MUSIC I'M FUCKING QUIRKIER THAN YOU FOR LIKING THE ROLLING STONES`);
+    }
+    if(msg.content.includes("hates rock")){
+        msg.channel.sendMessage(`YOU'RE AN ASSHOLE FOR NOT LIKING ROCK MUSIC I'M FUCKING QUIRKIER THAN YOU FOR LIKING THE ROLLING STONES`);
+    }
+    if(msg.content.includes("HATE ROCK")){
+        msg.channel.sendMessage(`YOU'RE AN ASSHOLE FOR NOT LIKING ROCK MUSIC I'M FUCKING QUIRKIER THAN YOU FOR LIKING THE ROLLING STONES`);
+    }
+    if(msg.content.includes("HATES ROCK")){
+        msg.channel.sendMessage(`YOU'RE AN ASSHOLE FOR NOT LIKING ROCK MUSIC I'M FUCKING QUIRKIER THAN YOU FOR LIKING THE ROLLING STONES`);
+    }
+    if(msg.content.includes("shepherd")){
+        msg.channel.sendMessage(`did a helpless little sheep bleat for his shepperd? ;))`);
+    }
+    if(msg.content.includes("shepperd")){
+        msg.channel.sendMessage(`did a helpless little sheep bleat for his shepperd? ;))`);
+    }
+    if(msg.content.includes("SHEPHERD")){
+        msg.channel.sendMessage(`did a helpless little sheep bleat for his shepperd? ;))`);
+    }
+    if(msg.content.includes("SHEPPERD")){
+        msg.channel.sendMessage(`did a helpless little sheep bleat for his shepperd? ;))`);
+    }
 })
 
 bot.login(token);
