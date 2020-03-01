@@ -608,6 +608,42 @@ bot.on('message', msg=>{
     if(msg.content.includes("henry")){
         msg.channel.sendMessage(`IF HENRY COMES TO TORONTO I WILL FUCKING SHOOT HIM AND THEN SHOOT MYSELF`);
     }
+    if(msg.content.includes("alberto do you have the n-word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("alberto do you have the n word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("Alberto do you have the n-word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("Alberto do you have the n word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("alberto, do you have the n-word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("alberto, do you have the n word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("Alberto, do you have the n-word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("Alberto, do you have the n word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("ALBERTO, DO YOU HAVE THE N-WORD PASS")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("ALBERTO, DO YOU HAVE THE N WORD PASS")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("ALBERTO DO YOU HAVE THE N-WORD PASS")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("ALBERTO DO YOU HAVE THE N WORD PASS")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
 })
 
 bot.login(token);
