@@ -644,6 +644,30 @@ bot.on('message', msg=>{
     if(msg.content.includes("ALBERTO DO YOU HAVE THE N WORD PASS")){
         msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
     }
+    if(msg.content.includes("alberto do you have the N-word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("alberto do you have the N word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("Alberto do you have the N-word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("Alberto do you have the N word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("alberto, do you have the N-word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("alberto, do you have the N word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("Alberto, do you have the N-word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
+    if(msg.content.includes("Alberto, do you have the N word pass")){
+        msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
+    }
 })
 
 bot.login(token);
