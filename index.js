@@ -918,12 +918,12 @@ ED ORA NON PUOI PIÙ FILAR`);
         msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
 
 you can follow their twitters here: 
-https://twitter.com/squidetor
-https://www.instagram.com/mingler.mail/
+<https://twitter.com/squidetor>
+<https://www.instagram.com/mingler.mail/>
 
 and their instagrams here: 
-https://www.instagram.com/giveformuoli/
-https://twitter.com/GoombaGotBack
+<https://www.instagram.com/giveformuoli/>
+<https://twitter.com/GoombaGotBack>
 
 fuckin' assholes.`);
     }
@@ -931,12 +931,12 @@ fuckin' assholes.`);
         msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
 
 you can follow their twitters here: 
-https://twitter.com/squidetor
-https://www.instagram.com/mingler.mail/
+<https://twitter.com/squidetor>
+<https://www.instagram.com/mingler.mail/>
 
 and their instagrams here: 
-https://www.instagram.com/giveformuoli/
-https://twitter.com/GoombaGotBack
+<https://www.instagram.com/giveformuoli/>
+<https://twitter.com/GoombaGotBack>
 
 fuckin' assholes.`);
     }
@@ -944,12 +944,12 @@ fuckin' assholes.`);
         msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
 
 you can follow their twitters here: 
-https://twitter.com/squidetor
-https://www.instagram.com/mingler.mail/
+<https://twitter.com/squidetor>
+<https://www.instagram.com/mingler.mail/>
 
 and their instagrams here: 
-https://www.instagram.com/giveformuoli/
-https://twitter.com/GoombaGotBack
+<https://www.instagram.com/giveformuoli/>
+<https://twitter.com/GoombaGotBack>
 
 fuckin' assholes.`);
     }
@@ -957,12 +957,12 @@ fuckin' assholes.`);
         msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
 
 you can follow their twitters here: 
-https://twitter.com/squidetor
-https://www.instagram.com/mingler.mail/
+<https://twitter.com/squidetor>
+<https://www.instagram.com/mingler.mail/>
 
 and their instagrams here: 
-https://www.instagram.com/giveformuoli/
-https://twitter.com/GoombaGotBack
+<https://www.instagram.com/giveformuoli/>
+<https://twitter.com/GoombaGotBack>
 
 fuckin' assholes.`);
     }
@@ -970,12 +970,12 @@ fuckin' assholes.`);
         msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
 
 you can follow their twitters here: 
-https://twitter.com/squidetor
-https://www.instagram.com/mingler.mail/
+<https://twitter.com/squidetor>
+<https://www.instagram.com/mingler.mail/>
 
 and their instagrams here: 
-https://www.instagram.com/giveformuoli/
-https://twitter.com/GoombaGotBack
+<https://www.instagram.com/giveformuoli/>
+<https://twitter.com/GoombaGotBack>
 
 fuckin' assholes.`);
     }
@@ -983,12 +983,12 @@ fuckin' assholes.`);
         msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
 
 you can follow their twitters here: 
-https://twitter.com/squidetor
-https://www.instagram.com/mingler.mail/
+<https://twitter.com/squidetor>
+<https://www.instagram.com/mingler.mail/>
 
 and their instagrams here: 
-https://www.instagram.com/giveformuoli/
-https://twitter.com/GoombaGotBack
+<https://www.instagram.com/giveformuoli/>
+<https://twitter.com/GoombaGotBack>
 
 fuckin' assholes.`);
     }
@@ -996,12 +996,12 @@ fuckin' assholes.`);
         msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
 
 you can follow their twitters here: 
-https://twitter.com/squidetor
-https://www.instagram.com/mingler.mail/
+<https://twitter.com/squidetor>
+<https://www.instagram.com/mingler.mail/>
 
 and their instagrams here: 
-https://www.instagram.com/giveformuoli/
-https://twitter.com/GoombaGotBack
+<https://www.instagram.com/giveformuoli/>
+<https://twitter.com/GoombaGotBack>
 
 fuckin' assholes.`);
     }
