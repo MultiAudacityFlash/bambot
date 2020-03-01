@@ -579,22 +579,22 @@ bot.on('message', msg=>{
         msg.channel.sendMessage(`OH SWEET WILMA I'M COOOOOMING`);
     }
     if(msg.content.includes("hate the Beatles")){
-        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://cdn.discordapp.com/attachments/658482693377622036/683534223105064960/MARIO_WHAT_U_DOIN.mov`);
     }
     if(msg.content.includes("hate the beatles")){
-        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://cdn.discordapp.com/attachments/658482693377622036/683534223105064960/MARIO_WHAT_U_DOIN.mov`);
     }
     if(msg.content.includes("hates the Beatles")){
-        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://cdn.discordapp.com/attachments/658482693377622036/683534223105064960/MARIO_WHAT_U_DOIN.mov`);
     }
     if(msg.content.includes("hates the beatles")){
-        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://cdn.discordapp.com/attachments/658482693377622036/683534223105064960/MARIO_WHAT_U_DOIN.mov`);
     }
     if(msg.content.includes("HATE THE BEATLES")){
-        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://cdn.discordapp.com/attachments/658482693377622036/683534223105064960/MARIO_WHAT_U_DOIN.mov`);
     }
     if(msg.content.includes("HATES THE BEATLES")){
-        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://media.discordapp.net/attachments/682341896798208100/683410645454028812/video0.mov`);
+        msg.channel.sendMessage(`I WILL FUCKING END YOU, SHIRTLESS AND ALL. https://cdn.discordapp.com/attachments/658482693377622036/683534223105064960/MARIO_WHAT_U_DOIN.mov`);
     }
     if(msg.content.includes("hate rock")){
         msg.channel.sendMessage(`YOU'RE AN ASSHOLE FOR NOT LIKING ROCK MUSIC I'M FUCKING QUIRKIER THAN YOU FOR LIKING THE ROLLING STONES`);
@@ -1225,6 +1225,66 @@ and their instagrams here:
 <https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
+    }
+    if(msg.content.includes("joe mama")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("joe mamma")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("Joe mama")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("Joe mamma")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("Joe Mama")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("Joe Mamma")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("JOE MAMA")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("JOE MAMMA")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("joe moma")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("joe momma")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("Joe moma")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("Joe momma")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("Joe Moma")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("Joe Momma")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("JOE MOMA")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("JOE MOMMA")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("who joe is")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("WHO JOE IS")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("who Joe is")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
+    }
+    if(msg.content.includes("who JOE is")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
     }
 })
 
