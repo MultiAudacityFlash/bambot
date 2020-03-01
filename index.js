@@ -842,6 +842,15 @@ ED ORA NON PUOI PIÙ FILAR`);
     if(msg.content.includes("SPANK BANK")){
         msg.channel.sendMessage(`WE DON'T FUCKING TALK ABOUT THE SPANK BANK`);
     }
+    if(msg.content.includes("Ahri")){
+        msg.channel.sendMessage(`AAAAAAASSSSSSSSHHHHHHOOOLLLLLLEEEE (altho i can make those socks wet for ya hehe)`);
+    }
+    if(msg.content.includes("ahri")){
+        msg.channel.sendMessage(`AAAAAAASSSSSSSSHHHHHHOOOLLLLLLEEEE (altho i can make those socks wet for ya hehe)`);
+    }
+    if(msg.content.includes("AHRI")){
+        msg.channel.sendMessage(`AAAAAAASSSSSSSSHHHHHHOOOLLLLLLEEEE (altho i can make those socks wet for ya hehe)`);
+    }
 })
 
 bot.login(token);
