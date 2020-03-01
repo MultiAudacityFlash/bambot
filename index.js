@@ -860,6 +860,21 @@ ED ORA NON PUOI PIÙ FILAR`);
     if(msg.content.includes("ALFREDO")){
         msg.channel.sendMessage(`FUCK YOU BRENT, AAAAASSSSHHHHHOOOOLLLLLEEEEEEE`);
     }
+    if(msg.content.includes("alberto was always")){
+        msg.reply(`i see`);
+    }
+    if(msg.content.includes("alberto was always")){
+        msg.reply(`i see`);
+    }
+    if(msg.content.includes("Alberto was always")){
+        msg.reply(`i see`);
+    }
+    if(msg.content.includes("Alberto is")){
+        msg.reply(`i see`);
+    }
+    if(msg.content.includes("alberto is")){
+        msg.reply(`i see`);
+    }
 })
 
 bot.login(token);
