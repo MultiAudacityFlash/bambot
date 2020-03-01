@@ -851,6 +851,15 @@ ED ORA NON PUOI PIÙ FILAR`);
     if(msg.content.includes("AHRI")){
         msg.channel.sendMessage(`AAAAAAASSSSSSSSHHHHHHOOOLLLLLLEEEE (altho i can make those socks wet for ya hehe)`);
     }
+    if(msg.content.includes("alfredo")){
+        msg.channel.sendMessage(`FUCK YOU BRENT, AAAAASSSSHHHHHOOOOLLLLLEEEEEEE`);
+    }
+    if(msg.content.includes("Alfredo")){
+        msg.channel.sendMessage(`FUCK YOU BRENT, AAAAASSSSHHHHHOOOOLLLLLEEEEEEE`);
+    }
+    if(msg.content.includes("ALFREDO")){
+        msg.channel.sendMessage(`FUCK YOU BRENT, AAAAASSSSHHHHHOOOOLLLLLEEEEEEE`);
+    }
 })
 
 bot.login(token);
