@@ -1286,6 +1286,51 @@ fuckin' assholes.`);
     if(msg.content.includes("who JOE is")){
         msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683534654103486477/squidward_s_suicide_by_imaginarymassacre_d5q7ofi-fullview.png`);
     }
+    if(msg.content.includes("whos joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("who's joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("Whos joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("Who's joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("whos Joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("who's Joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("Whos Joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("Who's Joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("WHOS JOE")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("WHO'S JOE")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("who is joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("who is Joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("Who is joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("Who is Joe")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
+    if(msg.content.includes("WHO IS JOE")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/661473590138634260/683536500930904292/unknown.png`);
+    }
 })
 
 bot.login(token);
