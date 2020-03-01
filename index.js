@@ -677,6 +677,15 @@ bot.on('message', msg=>{
     if(msg.content.includes("HAVE NO WILMA")){
         msg.channel.sendMessage(`I have no Wilma gn`);
     }
+    if(msg.content.includes("has no Wilma")){
+        msg.channel.sendMessage(`I have no Wilma gn`);
+    }
+    if(msg.content.includes("has no wilma")){
+        msg.channel.sendMessage(`I have no Wilma gn`);
+    }
+    if(msg.content.includes("HAS NO WILMA")){
+        msg.channel.sendMessage(`I have no Wilma gn`);
+    }
 })
 
 bot.login(token);
