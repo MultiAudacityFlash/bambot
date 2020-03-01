@@ -1347,9 +1347,10 @@ in toronto, you don't get judged for doing what you're doing, people will get wh
 
 i play nintendo games, huge mario fan. i like scott pilgrim, i played the game a few times when i could, i've seen the movie, and met bryan lee o'malley irl.
 
-he drew scott with cappy cause he saw me wearing it, and i was like "oh fuck yeah dude". i always wear cappy every single day of my life, i go everywhere with him, and i don't go a day without him, cappy's part of who i am now, just a guy who loves to walk around toronto and fuck around like in mario odyssey.
-
-yeah, i'm 17 and fucking single. i don't usually talk to women too much cause i'm shy as fuck or i'm too lazy to find people to talk to, which in itself is a bruh moment cause i'm autistic and fat lmao.
+he drew scott with cappy cause he saw me wearing it, and i was like "oh fuck yeah dude". i always wear cappy every single day of my life, i go everywhere with him, and i don't go a day without him, cappy's part of who i am now, just a guy who loves to walk around toronto and fuck around like in mario odyssey.`);
+    }
+    if(msg.content.includes("alberto who are you")){
+        msg.channel.sendMessage(`yeah, i'm 17 and fucking single. i don't usually talk to women too much cause i'm shy as fuck or i'm too lazy to find people to talk to, which in itself is a bruh moment cause i'm autistic and fat lmao.
 
 i call myself the "Toronto Caveman" because i dress up as fred flintstone, and i also live in the depths of the TTC. if you see this, i am making this from lower bay station and this is a cry for help get me outta this place for fucks sake
 
