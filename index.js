@@ -668,6 +668,15 @@ bot.on('message', msg=>{
     if(msg.content.includes("Alberto, do you have the N word pass")){
         msg.channel.sendMessage(`YEAH MY DAD'S FUCKING BLACK`);
     }
+    if(msg.content.includes("have no Wilma")){
+        msg.channel.sendMessage(`I have no Wilma gn`);
+    }
+    if(msg.content.includes("have no wilma")){
+        msg.channel.sendMessage(`I have no Wilma gn`);
+    }
+    if(msg.content.includes("HAVE NO WILMA")){
+        msg.channel.sendMessage(`I have no Wilma gn`);
+    }
 })
 
 bot.login(token);
