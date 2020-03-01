@@ -137,7 +137,7 @@ bot.on('message', msg=>{
     if(msg.content.includes("blackstripe1976")){
         msg.channel.sendMessage(`WHY THE FUCK WOULD YOU LEAK MY INSTAGRAM YOU ASSHOLE`);
     }
-    if(msg.content.includes("BLACKSTRIPE1976)){
+    if(msg.content.includes("BLACKSTRIPE1976")){
         msg.channel.sendMessage(`WHY THE FUCK WOULD YOU LEAK MY INSTAGRAM YOU ASSHOLE`);
     }
     if(msg.content.includes("make those socks wet")){
@@ -913,6 +913,97 @@ ED ORA NON PUOI PIÙ FILAR`);
     }
     if(msg.content.includes("GOAT")){
         msg.channel.sendMessage(`i prefer sheep but goats are pretty fucking hot too`);
+    }
+    if(msg.content.includes("Alberto, who created you")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("alberto, who created you")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("Alberto who created you")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("Alberto, who created you")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("alberto who created you")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("ALBERTO WHO CREATED YOU")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("ALBERTO, WHO CREATED YOU")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
     }
 })
 
