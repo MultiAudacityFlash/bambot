@@ -686,6 +686,67 @@ bot.on('message', msg=>{
     if(msg.content.includes("HAS NO WILMA")){
         msg.channel.sendMessage(`I have no Wilma gn`);
     }
+    if(msg.content.includes("did you say the n-word alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the N-word alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the n-word Alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the N-word Alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the n-word, alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the N-word, alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the n-word, Alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the N-word, Alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the n word alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the N word alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the n word Alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the N word Alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the n word, alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the N word, alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the n word, Alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("did you say the N word, Alberto")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("DID YOU SAY THE N-WORD, ALBERTO")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("DID YOU SAY THE N-WORD ALBERTO")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("DID YOU SAY THE N WORD, ALBERTO")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+    if(msg.content.includes("DID YOU SAY THE N WORD ALBERTO")){
+        msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
+    }
+})
 })
 
 bot.login(token);
