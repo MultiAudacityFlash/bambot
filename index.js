@@ -872,35 +872,14 @@ ED ORA NON PUOI PIÙ FILAR`);
     if(msg.content.includes("alberto is")){
         msg.reply(`i see`);
     }
-    if(msg.author.bot){
-        return;
-    }
     if(msg.content.includes("goat")){
         msg.channel.sendMessage(`i prefer sheep but goats are pretty fucking hot too`);
-    }
-    if(msg.author.bot){
-        return;
     }
     if(msg.content.includes("Goat")){
         msg.channel.sendMessage(`i prefer sheep but goats are pretty fucking hot too`);
     }
-    if(msg.author.bot){
-        return;
-    }
-    if(msg.author.bot){
-        return;
-    }
     if(msg.content.includes("GOAT")){
         msg.channel.sendMessage(`i prefer sheep but goats are pretty fucking hot too`);
-    }
-    if(msg.author.bot){
-        return;
-    }
-    if(msg.content.includes("GOATS")){
-        msg.channel.sendMessage(`i prefer sheep but goats are pretty fucking hot too`);
-    }
-    if(msg.author.bot){
-        return;
     }
 })
 
