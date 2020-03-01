@@ -1337,16 +1337,17 @@ since then, i've been living here in toronto, and i've been making youtube video
 
 i'm single, and currently 17 (as of 10/15/19, my birthday), i graduate high school in 2020, and from there i get to do whatever the fuck i want, so i chose to do youtube instead of going to college.
 
-i have a thing for old mid-to-late 20th century stuff from the 50's through the 90's, i've been trying to recaputre that old 1950's/1960's feeling in my stuff by using the font known as Toronto Subway, the font used by the TTC since the construction of the yonge line (TTC line 1) in 1949.
-
-in september 2017, i wore my old fred flintstone costume for the very first time, i loved it. one month later, i saw that cappy from super mario odyssey was coming out as a physical hat, and from there, i knew what i had to do from there
+i have a thing for old mid-to-late 20th century stuff from the 50's through the 90's, i've been trying to recaputre that old 1950's/1960's feeling in my stuff by using the font known as Toronto Subway, the font used by the TTC since the construction of the yonge line (TTC line 1) in 1949.`);
+    }
+    if(msg.content.includes("alberto who are you")){
+        msg.channel.sendMessage(`in september 2017, i wore my old fred flintstone costume for the very first time, i loved it. one month later, i saw that cappy from super mario odyssey was coming out as a physical hat, and from there, i knew what i had to do from there
 
 i became fred flintstone with cappy. this is who i want to be for the rest of my life, i want to make people happy, laugh, and enjoy themselves when they're having a rough day. but that doesn't mean i had a few rough days myself, i've been through some drama a lot back in 2017, and since early-to-mid 2018, i've been trying to improve on myself to prevent more drama from happening in my life. i just want to make people laugh with stuff i find funny, and i've been able to do that thanks to the internet and you.
-
+        
 in toronto, you don't get judged for doing what you're doing, people will get what you're referencing and join in on the fun with you, even if it's for a short time. you can literally walk out of your house in a silly costume, and people won't really mind you at all.
-
+        
 i play nintendo games, huge mario fan. i like scott pilgrim, i played the game a few times when i could, i've seen the movie, and met bryan lee o'malley irl.
-
+        
 he drew scott with cappy cause he saw me wearing it, and i was like "oh fuck yeah dude". i always wear cappy every single day of my life, i go everywhere with him, and i don't go a day without him, cappy's part of who i am now, just a guy who loves to walk around toronto and fuck around like in mario odyssey.`);
     }
     if(msg.content.includes("alberto who are you")){
