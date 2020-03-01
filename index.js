@@ -887,9 +887,6 @@ ED ORA NON PUOI PIÙ FILAR`);
     if(msg.author.bot){
         return;
     }
-    if(msg.content.includes("goats")){
-        msg.channel.sendMessage(`i prefer sheep but goats are pretty fucking hot too`);
-    }
     if(msg.author.bot){
         return;
     }
