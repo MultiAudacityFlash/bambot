@@ -131,7 +131,13 @@ bot.on('message', msg=>{
     if(msg.content.includes("What's Alberto's Instagram?")){
         msg.channel.sendMessage(`BRUH A FUCKING HEX ERROR: 4d7920496e7374616772616d2069732040626c61636b73747269706531393736`);
     }
+    if(msg.content.includes("WHAT'S ALBERTO'S INSTAGRAM?")){
+        msg.channel.sendMessage(`BRUH A FUCKING HEX ERROR: 4d7920496e7374616772616d2069732040626c61636b73747269706531393736`);
+    }
     if(msg.content.includes("blackstripe1976")){
+        msg.channel.sendMessage(`WHY THE FUCK WOULD YOU LEAK MY INSTAGRAM YOU ASSHOLE`);
+    }
+    if(msg.content.includes("BLACKSTRIPE1976)){
         msg.channel.sendMessage(`WHY THE FUCK WOULD YOU LEAK MY INSTAGRAM YOU ASSHOLE`);
     }
     if(msg.content.includes("make those socks wet")){
@@ -233,10 +239,19 @@ bot.on('message', msg=>{
     if(msg.content.includes("emilyxsmyth")){
         msg.channel.sendMessage(`I'M LEGIT FUCKING MAD RIGHT NOW MAN, IF YOU WANNA GO THEN COME OVER TO TORONTO AND GET YOUR FUCKING SHIT TOGETHER YOU THOT`);
     }
+    if(msg.content.includes("EMILYXSMYTH")){
+        msg.channel.sendMessage(`IF YOUR GF HAS ANXIETY SHE'S A FUCKING *__THOT__*`);
+    }
+    if(msg.content.includes("EMILYXSMYTH")){
+        msg.channel.sendMessage(`I'M LEGIT FUCKING MAD RIGHT NOW MAN, IF YOU WANNA GO THEN COME OVER TO TORONTO AND GET YOUR FUCKING SHIT TOGETHER YOU THOT`);
+    }
     if(msg.content.includes("voyeurism")){
         msg.channel.sendMessage(`AAAAGGGHHH MY YABBA DABBA DICK`);
     }
     if(msg.content.includes("Voyeurism")){
+        msg.channel.sendMessage(`AAAAGGGHHH MY YABBA DABBA DICK`);
+    }
+    if(msg.content.includes("VOYEURISM")){
         msg.channel.sendMessage(`AAAAGGGHHH MY YABBA DABBA DICK`);
     }
     if(msg.content.includes("YABBA DABBA DOO")){
@@ -278,6 +293,9 @@ bot.on('message', msg=>{
     if(msg.content.includes("7granddad")){
         msg.channel.sendMessage(`BEN GIVE ME BACK MY FUCKING @ YOU ASSHOLE`);
     }
+    if(msg.content.includes("7GRANDDAD")){
+        msg.channel.sendMessage(`BEN GIVE ME BACK MY FUCKING @ YOU ASSHOLE`);
+    }
     if(msg.content.includes("wet socks")){
         msg.channel.sendMessage(`;))`);
     }
@@ -291,6 +309,9 @@ bot.on('message', msg=>{
         msg.channel.sendMessage(`I'LL COME TO HIS SCHOOL AND SHOOT IT UP AND SHOOT HIM AND SHOOT MYSELF`);
     }
     if(msg.content.includes("Antiukrane")){
+        msg.channel.sendMessage(`I'LL COME TO HIS SCHOOL AND SHOOT IT UP AND SHOOT HIM AND SHOOT MYSELF`);
+    }
+    if(msg.content.includes("ANTIUKRANE")){
         msg.channel.sendMessage(`I'LL COME TO HIS SCHOOL AND SHOOT IT UP AND SHOOT HIM AND SHOOT MYSELF`);
     }
     if(msg.content.includes("had a farm")){
@@ -438,6 +459,9 @@ bot.on('message', msg=>{
         msg.channel.sendMessage(`BOY DO I HAVE A FUCKIN' STORY TO TELL YOU. few days ago, me and a few friends were playing on alpha, we noticed the player 'entity_49' (herobrine) has joined. we started freaking out because we didn't know what to do, he just kept doing nothing, while we did something, he kept saying 'hjalp mig snalla' (help me please) in swedish. he talks in swedish (because the game was made in sweden) and he doesn't understand us, so we tried our best to translate what he said using google translate. he told us earlier (around 8:00 or something) that he's not the bad guy the internet sees him as, he's just apart of the game's code that wants to be deleted. he wants to be removed from existance and wants to be free from the hell that he's currently in, microsoft isn't doing a thing about this, they claim that hs's gone, but in reality, he's still here, and on this server. making a server in 1.2.6 is enough to spawn him in, he wants to tell you that he's here, and this shit's all real`);
     }
     if(msg.content.includes("-Herobrine removed")){
+        msg.reply(`>is in latest version`);
+    }
+    if(msg.content.includes("-HEROBRINE REMOVED")){
         msg.reply(`>is in latest version`);
     }
     if(msg.content.includes("HEROBRINE ISN'T REAL")){
@@ -606,6 +630,9 @@ bot.on('message', msg=>{
         msg.channel.sendMessage(`IF HENRY COMES TO TORONTO I WILL FUCKING SHOOT HIM AND THEN SHOOT MYSELF`);
     }
     if(msg.content.includes("henry")){
+        msg.channel.sendMessage(`IF HENRY COMES TO TORONTO I WILL FUCKING SHOOT HIM AND THEN SHOOT MYSELF`);
+    }
+    if(msg.content.includes("HENRY")){
         msg.channel.sendMessage(`IF HENRY COMES TO TORONTO I WILL FUCKING SHOOT HIM AND THEN SHOOT MYSELF`);
     }
     if(msg.content.includes("alberto do you have the n-word pass")){
@@ -794,6 +821,12 @@ bot.on('message', msg=>{
     if(msg.content.includes("freds grand odyssey")){
         msg.channel.sendMessage(`LUNGO FILACCIO`);
     }
+    if(msg.content.includes("FREDS GRAND ODYSSEY")){
+        msg.channel.sendMessage(`LUNGO FILACCIO`);
+    }
+    if(msg.content.includes("FRED'S GRAND ODYSSEY")){
+        msg.channel.sendMessage(`LUNGO FILACCIO`);
+    }
     if(msg.content.includes("lungo filaccio")){
         msg.channel.sendMessage(`TRISTE SARTACCIO`);
     }
@@ -880,6 +913,97 @@ ED ORA NON PUOI PIÙ FILAR`);
     }
     if(msg.content.includes("GOAT")){
         msg.channel.sendMessage(`i prefer sheep but goats are pretty fucking hot too`);
+    }
+    if(msg.content.includes("Alberto, who created you")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("alberto, who created you")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("Alberto who created you")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("Alberto, who created you")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("alberto who created you")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("ALBERTO WHO CREATED YOU")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
+    }
+    if(msg.content.includes("ALBERTO, WHO CREATED YOU")){
+        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
+
+you can follow their twitters here: 
+https://twitter.com/squidetor
+https://www.instagram.com/mingler.mail/
+
+and their instagrams here: 
+https://www.instagram.com/giveformuoli/
+https://twitter.com/GoombaGotBack
+
+fuckin' assholes.`);
     }
 })
 
