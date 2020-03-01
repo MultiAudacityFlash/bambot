@@ -863,9 +863,6 @@ ED ORA NON PUOI PIÙ FILAR`);
     if(msg.content.includes("alberto was always")){
         msg.reply(`i see`);
     }
-    if(msg.content.includes("alberto was always")){
-        msg.reply(`i see`);
-    }
     if(msg.content.includes("Alberto was always")){
         msg.reply(`i see`);
     }
