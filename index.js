@@ -1357,7 +1357,7 @@ i call myself the "Toronto Caveman" because i dress up as fred flintstone, and i
 
 if you'd like to talk to me and learn more about me, please subscribe to my youtube channel: <https://www.youtube.com/c/TorontoCaveman>
 
-you can also follow me on twitter: https://twitter.com/toronto_caveman`);
+you can also follow me on twitter: <https://twitter.com/toronto_caveman>`);
     }
 })
 
