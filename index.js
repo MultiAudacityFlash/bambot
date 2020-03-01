@@ -953,19 +953,6 @@ and their instagrams here:
 
 fuckin' assholes.`);
     }
-    if(msg.content.includes("Alberto, who created you")){
-        msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
-
-you can follow their twitters here: 
-<https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
-
-and their instagrams here: 
-<https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
-
-fuckin' assholes.`);
-    }
     if(msg.content.includes("alberto who created you")){
         msg.channel.sendMessage(`the real me is probably jacking off to sheep porn like the furry he is/i am, so Formuoli and ClownDuck created me as a replacement. 
 
