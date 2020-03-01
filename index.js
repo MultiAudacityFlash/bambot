@@ -830,6 +830,18 @@ bot.on('message', msg=>{
         TROPPO FILO TE L'HA FATTO FAR
         ED ORA NON PUOI PIÙ FILAR`);
     }
+    if(msg.content.includes("spank bank")){
+        msg.channel.sendMessage(`WE DON'T FUCKING TALK ABOUT THE SPANK BANK`);
+    }
+    if(msg.content.includes("Spank bank")){
+        msg.channel.sendMessage(`WE DON'T FUCKING TALK ABOUT THE SPANK BANK`);
+    }
+    if(msg.content.includes("Spank Bank")){
+        msg.channel.sendMessage(`WE DON'T FUCKING TALK ABOUT THE SPANK BANK`);
+    }
+    if(msg.content.includes("SPANK BANK")){
+        msg.channel.sendMessage(`WE DON'T FUCKING TALK ABOUT THE SPANK BANK`);
+    }
 })
 
 bot.login(token);
