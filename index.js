@@ -919,11 +919,11 @@ ED ORA NON PUOI PIÙ FILAR`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -932,11 +932,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -945,11 +945,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -958,11 +958,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -971,11 +971,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -984,11 +984,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -997,11 +997,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1010,11 +1010,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1023,11 +1023,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1036,11 +1036,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1049,11 +1049,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1062,11 +1062,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1075,11 +1075,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1088,11 +1088,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1101,11 +1101,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1114,11 +1114,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1127,11 +1127,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1140,11 +1140,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1153,11 +1153,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1166,11 +1166,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1179,11 +1179,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1192,11 +1192,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1205,11 +1205,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
@@ -1218,11 +1218,11 @@ fuckin' assholes.`);
 
 you can follow their twitters here: 
 <https://twitter.com/squidetor>
-<https://www.instagram.com/mingler.mail/>
+<https://twitter.com/GoombaGotBack>
 
 and their instagrams here: 
 <https://www.instagram.com/giveformuoli/>
-<https://twitter.com/GoombaGotBack>
+<https://www.instagram.com/mingler.mail/>
 
 fuckin' assholes.`);
     }
