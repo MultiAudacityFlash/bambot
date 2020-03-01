@@ -808,27 +808,27 @@ bot.on('message', msg=>{
     }
     if(msg.content.includes("TRISTE SARTACCIO")){
         msg.channel.sendMessage(`FILA, FILA, MA CHE VUOI FILAR?
-    SENZA PUNTA L'AGO NON PUÒ ANDAR
-    TROPPO FILO TE L'HA FATTO FAR
-    ED ORA NON PUOI PIÙ FILAR`);
+SENZA PUNTA L'AGO NON PUÒ ANDAR
+TROPPO FILO TE L'HA FATTO FAR
+ED ORA NON PUOI PIÙ FILAR`);
     }
     if(msg.content.includes("Triste Sartaccio")){
         msg.channel.sendMessage(`FILA, FILA, MA CHE VUOI FILAR?
-    SENZA PUNTA L'AGO NON PUÒ ANDAR
-    TROPPO FILO TE L'HA FATTO FAR
-    ED ORA NON PUOI PIÙ FILAR`);
+SENZA PUNTA L'AGO NON PUÒ ANDAR
+TROPPO FILO TE L'HA FATTO FAR
+ED ORA NON PUOI PIÙ FILAR`);
     }
     if(msg.content.includes("Triste sartaccio")){
         msg.channel.sendMessage(`FILA, FILA, MA CHE VUOI FILAR?
-    SENZA PUNTA L'AGO NON PUÒ ANDAR
-    TROPPO FILO TE L'HA FATTO FAR
-    ED ORA NON PUOI PIÙ FILAR`);
+SENZA PUNTA L'AGO NON PUÒ ANDAR
+TROPPO FILO TE L'HA FATTO FAR
+ED ORA NON PUOI PIÙ FILAR`);
     }
     if(msg.content.includes("triste sartaccio")){
         msg.channel.sendMessage(`FILA, FILA, MA CHE VUOI FILAR?
-    SENZA PUNTA L'AGO NON PUÒ ANDAR
-    TROPPO FILO TE L'HA FATTO FAR
-    ED ORA NON PUOI PIÙ FILAR`);
+SENZA PUNTA L'AGO NON PUÒ ANDAR
+TROPPO FILO TE L'HA FATTO FAR
+ED ORA NON PUOI PIÙ FILAR`);
     }
     if(msg.content.includes("spank bank")){
         msg.channel.sendMessage(`WE DON'T FUCKING TALK ABOUT THE SPANK BANK`);
