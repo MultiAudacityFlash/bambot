@@ -782,6 +782,30 @@ bot.on('message', msg=>{
     if(msg.content.includes("alberto why did you say the n-word")){
         msg.channel.sendMessage(`I mean hey... that ***fucking __nigger__*** did it first, so?...`);
     }
+    if(msg.content.includes("Fred's Grand Odyssey")){
+        msg.channel.sendMessage(`LUNGO FILACCIO`);
+    }
+    if(msg.content.includes("Freds Grand Odyssey")){
+        msg.channel.sendMessage(`LUNGO FILACCIO`);
+    }
+    if(msg.content.includes("fred's grand odyssey")){
+        msg.channel.sendMessage(`LUNGO FILACCIO`);
+    }
+    if(msg.content.includes("freds grand odyssey")){
+        msg.channel.sendMessage(`LUNGO FILACCIO`);
+    }
+    if(msg.content.includes("lungo filaccio")){
+        msg.channel.sendMessage(`TRISTE SARTACCIO`);
+    }
+    if(msg.content.includes("Lungo filaccio")){
+        msg.channel.sendMessage(`TRISTE SARTACCIO`);
+    }
+    if(msg.content.includes("Lungo Filaccio")){
+        msg.channel.sendMessage(`TRISTE SARTACCIO`);
+    }
+    if(msg.content.includes("LUNGO FILACCIO")){
+        msg.channel.sendMessage(`TRISTE SARTACCIO, NIGGA`);
+    }
 })
 
 bot.login(token);
