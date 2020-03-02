@@ -1667,6 +1667,27 @@ if you'd like to talk to me and learn more about me, please subscribe to my yout
 
 you can also follow me on twitter: <https://twitter.com/toronto_caveman>`);
     }
+    if(msg.content.includes("horse liver")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658478432581189652/683863812343857172/horse_liver.jpg`);
+    }
+    if(msg.content.includes("Horse liver")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658478432581189652/683863812343857172/horse_liver.jpg`);
+    }
+    if(msg.content.includes("horse-liver")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658478432581189652/683863812343857172/horse_liver.jpg`);
+    }
+    if(msg.content.includes("Horse-liver")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658478432581189652/683863812343857172/horse_liver.jpg`);
+    }
+    if(msg.content.includes("Horse-Liver")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658478432581189652/683863812343857172/horse_liver.jpg`);
+    }
+    if(msg.content.includes("HORSE LIVER")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658478432581189652/683863812343857172/horse_liver.jpg`);
+    }
+    if(msg.content.includes("HORSE-LIVER")){
+        msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658478432581189652/683863812343857172/horse_liver.jpg`);
+    }
 })
 
 bot.login(token);
