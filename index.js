@@ -482,6 +482,15 @@ bot.on('message', msg=>{
     if(msg.content.includes("herobrine isn't real")){
         msg.reply(`but i'm telling ya, he's real!`);
     }
+    if(msg.content.includes("herobrine is not real")){
+        msg.reply(`but i'm telling ya, he's real!`);
+    }
+    if(msg.content.includes("Herobrine is not real")){
+        msg.reply(`but i'm telling ya, he's real!`);
+    }
+    if(msg.content.includes("HEROBRINE IS NOT REAL")){
+        msg.reply(`but i'm telling ya, he's real!`);
+    }
     if(msg.content.includes("shut the fuck up Alberto")){
         msg.reply(`no u asshole`);
     }
