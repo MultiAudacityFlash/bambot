@@ -1697,6 +1697,54 @@ you can also follow me on twitter: <https://twitter.com/toronto_caveman>`);
     if(msg.content.includes("HORSE-LIVER")){
         msg.channel.sendMessage(`https://cdn.discordapp.com/attachments/658478432581189652/683863812343857172/horse_liver.jpg`);
     }
+    if(msg.content.includes("googoo doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("Googoo Doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("Googoo doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("goo goo doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("Goo goo Doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("Goo goo doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("Goo Goo Doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("Goo Goo doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("goo-goo doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("Goo-goo Doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("Goo-goo doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("Goo-Goo Doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("Goo-Goo doc")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("GOOGOO DOC")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("GOO GOO DOC")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
+    if(msg.content.includes("GOO-GOO DOC")){
+        msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
+    }
 })
 
 bot.login(token);
