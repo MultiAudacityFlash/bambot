@@ -521,6 +521,132 @@ bot.on('message', msg=>{
     if(msg.content.includes("SHUT THE FUCK UP, ALBERTO")){
         msg.reply(`NO U ASSHOLE`);
     }
+    if(msg.content.includes("fuck you alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("fuck you, alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("fuck you Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("fuck you, Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Fuck you alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Fuck you, alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Fuck you Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Fuck you, Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("FUCK YOU ALBERTO")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("FUCK YOU, ALBERTO")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("alberto fuck you")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("alberto, fuck you")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("alberto. fuck you")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto fuck you")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto, fuck you")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto. fuck you")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto. Fuck you")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("ALBERTO FUCK YOU")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("ALBERTO, FUCK YOU")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("ALBERTO. FUCK YOU")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("go fuck yourself alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("alberto go fuck yourself")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("go fuck yourself, alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Go fuck yourself, alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("go fuck yourself, Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Go fuck yourself, Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("go fuck yourself alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Go fuck yourself alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("go fuck yourself Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Go fuck yourself Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("alberto, go fuck yourself")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("alberto. go fuck yourself")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto go fuck yourself")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("go fuck yourself, Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto, go fuck yourself")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto. go fuck yourself")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto. Go fuck yourself")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("GO FUCK YOURSELF ALBERTO")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("GO FUCK YOURSELF, ALBERTO")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("ALBERTO GO FUCK YOURSELF")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("ALBERTO, GO FUCK YOURSELF")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("ALBERTO. GO FUCK YOURSELF")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
     if(msg.content.includes("Alberto smells like ham")){
         msg.reply(`you smell like fucking chicken, you asshole`);
     }
