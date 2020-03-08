@@ -599,9 +599,6 @@ bot.on('message', msg=>{
     if(msg.content.includes("Go fuck yourself, Alberto")){
         msg.reply(`fuck u asshole`);
     }
-    if(msg.content.includes("go fuck yourself alberto")){
-        msg.reply(`fuck u asshole`);
-    }
     if(msg.content.includes("Go fuck yourself alberto")){
         msg.reply(`fuck u asshole`);
     }
