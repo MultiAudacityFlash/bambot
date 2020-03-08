@@ -1868,6 +1868,66 @@ you can also follow me on twitter: <https://twitter.com/toronto_caveman>`);
     if(msg.content.includes("GOO-GOO DOC")){
         msg.channel.sendMessage(`https://t.co/jmkOSfpWDn?amp=1`);
     }
+    if(msg.content.includes("fuck off alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("fuck off, alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("fuck off Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("fuck off, Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Fuck off alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Fuck off, alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Fuck off Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Fuck off, Alberto")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("FUCK OFF ALBERTO")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("FUCK OFF, ALBERTO")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("alberto fuck off")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("alberto, fuck off")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("alberto. fuck off")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto fuck off")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto, fuck off")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto. fuck off")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("Alberto. Fuck off")){
+        msg.reply(`fuck u asshole`);
+    }
+    if(msg.content.includes("ALBERTO FUCK OFF")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("ALBERTO, FUCK OFF")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
+    if(msg.content.includes("ALBERTO. FUCK OFF")){
+        msg.reply(`FUCK U ASSHOLE`);
+    }
 })
 
 bot.login(token);
