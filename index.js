@@ -101,14 +101,8 @@ bot.on('message', msg=>{
     if(msg.content.includes("Felix")){
         msg.channel.sendMessage(`AAAAAAASSSSSSSSHHHHHHOOOLLLLLLEEEE`);
     }
-    if(msg.author.bot){
-        return;
-    }
     if(msg.content.includes("felix")){
         msg.channel.sendMessage(`AAAAAAASSSSSSSSHHHHHHOOOLLLLLLEEEE`);
-    }
-    if(msg.author.bot){
-        return;
     }
     if(msg.content.includes("nigger")){
         msg.channel.sendMessage(`bruh`);
