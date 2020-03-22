@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
 const bot = new Discord.Client();
 
-const token = 'NjgzMDM2MjQ0Nzk5NzgyOTM2.XllueQ.B5-6b1RCneWZDIeCw4eIXnKMTHY';
+const token = 'INSERT TOKEN HERE';
 
 const blacklist = 
 
